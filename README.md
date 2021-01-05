@@ -1,0 +1,1 @@
+A two-player, ruby based math game where each player answers a simple math question. On a wrong answer, a player loses a life. Once a player has lost three lives, the game ends.
