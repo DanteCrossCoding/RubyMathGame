@@ -1,0 +1,20 @@
+Suggested classes:
+
+ -Player
+  player attributes:
+   -name
+   -lives
+
+ -Question
+  question attributes:
+   -first number
+   -second number
+   -answer
+   -printed question
+
+ -Game
+  game attributes
+   - tracks lives lost
+   - tracks current player
+   - reports lives remaining for both players
+   - reports winner when one player loses all lives
